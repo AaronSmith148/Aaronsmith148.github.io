@@ -18,4 +18,15 @@ img {
     border-radius: 30px;
 }
 
+.row {
+    max-width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+
+#footer {
+    text-align: center;
+    width: 100%;
+    margin-top: 64px;
+}
