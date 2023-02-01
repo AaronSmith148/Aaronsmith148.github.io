@@ -9,4 +9,13 @@ p {
     color: lightsteelblue;
 }
 
+a {
+    color: darkgreen;
+    font-size: 1.7em;
+}
+
+img {
+    border-radius: 30px;
+}
+
 
