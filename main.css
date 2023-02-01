@@ -16,6 +16,7 @@ a {
 
 img {
     border-radius: 30px;
+    box-shadow: darkgreen 5px 5px 5px;
 }
 
 .row {
