@@ -1,0 +1,29 @@
+﻿body {
+    background-color: #171a21;
+    color: lightgrey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#MainBody {
+    background-color: #1b2838;
+}
+.navbar {
+    background-color: #0B1016;
+    opacity: 60%;
+}
+.nav-item {
+    background-color: #23272D;
+}
+.navbar-brand {
+    background-color: #23272D;
+    color: lightgrey;
+    padding-right: 1em;
+    padding-left: .5em;
+    margin-right: 0;
+}
+.nav-link {
+    color: lightgrey;
+}
+video {
+    max-width: 100%;
+    height: auto;
+}
